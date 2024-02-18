@@ -1,7 +1,4 @@
----
-
-
-# Data Analysis-For-Optimizing-User-Engagement-App-and-Website-Installations
+# Data Analysis For Optimizing User Engagement App and Website Installations
 
 ## Problem Statement:
 The task is to analyze a provided dataset from "XYZ Inc." and generate actionable insights to optimize page performance and increase user installation and engagement on both the App and Website platforms.
@@ -45,5 +42,3 @@ The project aims to provide actionable insights to enhance page optimization, in
 - Identified significant factors influencing user engagement and installation.
 - Evaluated the effectiveness of past marketing campaigns and identified areas for improvement.
 - Proposed actionable recommendations based on data-driven insights to optimize sales performance.
-
----
